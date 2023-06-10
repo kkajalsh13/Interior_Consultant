@@ -1,0 +1,89 @@
+body {
+  background-color: black;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a {
+  padding: 15px;
+  color: white;
+  text-decoration: none;
+  margin-right: 70px;
+  font-size: large;
+}
+nav {
+  padding: 2%;
+  text-align: right;
+}
+.left {
+  width: 40%;
+  float: left;
+  color: white;
+  padding-top: 8%;
+  padding-left: 8%;
+}
+.right {
+  width: 40%;
+  float: left;
+  padding: 2%;
+}
+p {
+  width: 50%;
+  color: rgba(253, 253, 247, 0.678);
+  font-size: 20px;
+}
+h1 {
+  font-size: 45px;
+}
+.main {
+  width: 100%;
+  color: deepskyblue;
+}
+
+.logo {
+  color: white;
+  float: left;
+  margin-left: 100px;
+  margin-top: 10px;
+  border: 1px solid deepskyblue;
+  padding: 7px;
+  font-size: 12px;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: rgb(155, 146, 155);
+  text-align: center;
+}
+.dialogBox {
+  color: white;
+  position: absolute;
+  width: 300px;
+  height: 110px;
+  background-color: black;
+  box-shadow: 1px 0px 1px 1px deepskyblue;
+  border-radius: 10px;
+  left: 72%;
+  top: 75%;
+  padding: 20px;
+}
+h3 {
+  width: 80%;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+.name {
+  margin-left: 20px;
+  position: relative;
+  top: -30px;
+  font-size: 12px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.prof {
+  margin-left: -70px;
+  position: relative;
+  top: -10px;
+  font-size: 12px;
+  font-family: 'Times New Roman', Times, serif;
+}
